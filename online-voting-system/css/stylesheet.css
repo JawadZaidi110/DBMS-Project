@@ -1,0 +1,107 @@
+input {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+body{
+  background-image: url(/uploads/sipna.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+select {
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#upload {
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+
+#headerSection {
+  padding: 2px;
+  font-family: Cursive;
+}
+
+#loginSection {
+  background-color:white;
+ 
+  border-radius: 4px;
+  margin: 10px;
+  margin-left: 400px;
+  margin-right: 400px;
+  padding: 80px;
+  border: 2px solid grey;
+  box-shadow: 2px 4px 5px black;
+  transition: all 2s ease;
+  cursor: pointer;
+
+}
+#loginSection:hover {
+  box-shadow: 6px 8px 10px rgba(0, 0,0,0.4);}
+body {
+  background-color: #b8e994;
+}
+
+#loginbtn {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+}
+
+#reglink {
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+#mainSection {
+  padding: 10px;
+}
+
+#profileSection {
+  width: 30%;
+  float: left;
+  background-color: white;
+  padding: 20px;
+}
+
+#groupSection {
+  width: 60%;
+  float: right;
+  background-color: white;
+  padding: 20px;
+}
+
+#back-button {
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+}
+
+#logout-button {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+  padding: 5px;
+  font-size: 15px;
+  background-color: #3498db;
+  color: white;
+  border-radius: 5px;
+}
